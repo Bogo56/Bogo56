@@ -1,8 +1,8 @@
 
  ### 👉 About Me 👇
-
-- 📊 Senior Performance Marketing and Analysis Specialist
+ 
 - 💻 Self-taught programmer actively coding since 2020
+- 📊 Senior Performance Marketing and Analysis Specialist
 - ❤️ Backend development, but spend some time on Frontend as well
 - 👍 Languages:
   - Bulgarian - Native
