@@ -1,7 +1,7 @@
 
  ### 👉 About Me 👇
  
-- 💻 Self-taught programmer actively coding since 2020
+- 💻 Self-taught programmer - actively coding since 2020
 - 📊 Senior Performance Marketing and Analysis Specialist
 - ❤️ Backend development, but spend some time on Frontend as well
 - 👍 Languages:
