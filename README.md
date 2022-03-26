@@ -1,19 +1,14 @@
-### Hi there 👋
 
-<!--
-**Bogo56/Bogo56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ ### 👉 About Me 👇
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📊 Senior Performance Marketing and Analysis Specialist
+- 💻 Self-taught programmer actively coding since 2020
+- ❤️ Backend development, but spend some time on Frontend as well
+- 👍 Languages:
+  - :bulgaria: - Native
+  - 🇺🇸 - C1
+  - 🇩🇪 - C1
 
 ## Current Tech Stack
 
@@ -54,7 +49,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
  </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=BogoCvetkov&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Bogo's github stats" /></a> | <a href="https://github.com/BogoCvetkov/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BogoCvetkov&layout=compact&theme=buefy&hide_border=true" /></a> |
+<a href="https://github.com/BogoCvetkov"><img align="center" src="https://github-readme-stats.vercel.app/api?username=BogoCvetkov&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Bogo's github stats" /></a> | <a href="https://github.com/BogoCvetkov"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BogoCvetkov&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
