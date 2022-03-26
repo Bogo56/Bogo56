@@ -52,4 +52,10 @@
 <a href="https://github.com/BogoCvetkov"><img align="center" src="https://github-readme-stats.vercel.app/api?username=BogoCvetkov&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Bogo's github stats" /></a> | <a href="https://github.com/BogoCvetkov"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BogoCvetkov&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+<br>
+<br>
+
+<details>
+ <summary>📈 Additional stats </summary>
+ </details>
 
