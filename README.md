@@ -6,9 +6,9 @@
 - 💻 Self-taught programmer actively coding since 2020
 - ❤️ Backend development, but spend some time on Frontend as well
 - 👍 Languages:
-  - :bulgaria: - Native
-  - 🇺🇸 - C1
-  - 🇩🇪 - C1
+  - Bulgarian - Native
+  - English - C1
+  - German - B2/C1
 
 ## Current Tech Stack
 
@@ -47,15 +47,27 @@
    <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
   <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+ <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
  </p>
+ 
+ <br>
 
-<a href="https://github.com/BogoCvetkov"><img align="center" src="https://github-readme-stats.vercel.app/api?username=BogoCvetkov&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Bogo's github stats" /></a> | <a href="https://github.com/BogoCvetkov"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BogoCvetkov&layout=compact&theme=buefy&hide_border=true" /></a> |
+<a href="https://github.com/BogoCvetkov"><img align="center" src="https://github-readme-stats.vercel.app/api?username=BogoCvetkov&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Bogo's github stats" /></a> | <a href="https://github.com/BogoCvetkov"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BogoCvetkov&exclude_repo=Small_Projects&langs_count=6&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <br>
-<br>
 
-<details>
- <summary>📈 Additional stats </summary>
- </details>
+## I don't bite - promise 😇
+ <p>
+ <a href = "https://www.linkedin.com/in/bogomil-cvetkov-766a37b5/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+  <a href = "https://www.facebook.com/bogomil.cena/"> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"> </a>
+ <a href="https://www.instagram.com/bogo.cvetkov/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+ </p>
+ 
+#### Pinned Repositories
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogoCvetkov&repo=TravelApp_NodeJS&theme=buefy" />
+</a>
 
