@@ -67,7 +67,7 @@
 #### Pinned Repositories
 
 
-<a href="https://github.com/BogoCvetkov/TravelApp_NodeJS">
+<a href="https://github.com/BogoCvetkov/TravelApp_NodeJS/tree/Branch-with-latest-updates">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogoCvetkov&repo=TravelApp_NodeJS&theme=buefy" />
 </a>
 
