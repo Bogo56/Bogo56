@@ -67,11 +67,11 @@
 #### Pinned Repositories
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/BogoCvetkov/TravelApp_NodeJS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogoCvetkov&repo=TravelApp_NodeJS&theme=buefy" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/BogoCvetkov/ScreenShotAppWEB/tree/Async">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogoCvetkov&repo=ScreenShotAppWEB&theme=buefy" />
 </a>
 
