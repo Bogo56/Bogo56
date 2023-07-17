@@ -96,6 +96,6 @@
 </a>
 
 <a href="https://github.com/BogoCvetkov/ScreenShotAppWEB/tree/Async">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogoCvetkov&repo=ScreenShotAppWEB&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogoCvetkov&repo=ScreenShotAppWEB&theme=buefy???" />
 </a>
 
