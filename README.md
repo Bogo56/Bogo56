@@ -87,7 +87,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogoCvetkov&repo=distributed-go-microservices-with-K8s&theme=buefy" />
 </a>
 
-<a href="https://github.com/BogoCvetkov/podkrepi_api/tree/main">
+<a href="https://github.com/BogoCvetkov/podkrepi_api/tree/master">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogoCvetkov&repo=podkrepi_api&theme=buefy?" />
 </a>
 
