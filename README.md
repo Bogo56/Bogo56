@@ -66,9 +66,16 @@
  
 #### Pinned Repositories
 
+<a href="https://github.com/BogoCvetkov/go_masterclass_with_k8s/tree/main">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogoCvetkov&repo=go_masterclass_with_k8s&theme=buefy" />
+</a>
 
-<a href="https://github.com/BogoCvetkov/TravelApp_NodeJS/tree/Branch-with-latest-updates">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogoCvetkov&repo=TravelApp_NodeJS&theme=buefy" />
+<a href="https://github.com/BogoCvetkov/podkrepi-api/tree/main">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogoCvetkov&repo=podkrepi-api&theme=buefy" />
+</a>
+
+<a href="https://github.com/BogoCvetkov/go_masterclass_with_k8s/tree/main">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogoCvetkov&repo=go_masterclass_with_k8s&theme=buefy" />
 </a>
 
 <a href="https://github.com/BogoCvetkov/ScreenShotAppWEB/tree/Async">
