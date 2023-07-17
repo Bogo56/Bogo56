@@ -87,8 +87,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogoCvetkov&repo=distributed-go-microservices-with-K8s&theme=buefy" />
 </a>
 
-<a href="https://github.com/BogoCvetkov/podkrepi-api/tree/main">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogoCvetkov&repo=podkrepi-api&theme=buefy" />
+<a href="https://github.com/BogoCvetkov/podkrepi_api/tree/main">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogoCvetkov&repo=podkrepi_api&theme=buefy" />
 </a>
 
 <a href="https://github.com/BogoCvetkov/go_masterclass_with_k8s/tree/main">
