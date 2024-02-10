@@ -1,16 +1,11 @@
 
  ### 👉 About Me 👇
  
-- 💻 Self-taught programmer - actively coding since 2020
-- ❤️ Fullstack developer with focus on BE technologies(Node.js, Pyton, Go)
-- ⚙️ Experience with Google Cloud(GCP), K8s, Docker and CI/CD workflows
-- 🙌 Active contributor and member of the open-source charity project that raises hundreds of thousands of leva each month for meaningful causes - [Podkrepi.bg](https://github.com/podkrepi-bg)
-- ⚛️ Web3 experience
-- 📊 Also -> Experience in Performance Marketing and Data Analytics
-- 👍 Languages:
-  - Bulgarian - Native
-  - English - C1
-  - German - B2/C1
+- 💻 Self-taught programmer 
+- ❤️ 4 years professional experience with BE technologies(Node.js, Pyton, Go)
+- ⚙️ Experienced in Google Cloud(GCP) - K8s, Docker, CI/CD workflows & everything DevOps
+- ⚛️ Web3 developer & Resercher
+
 
 ## Current Tech Stack
 
