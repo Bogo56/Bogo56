@@ -4,7 +4,7 @@
 - 💻 Self-taught programmer 
 - ❤️ 4 years professional experience with BE technologies(Node.js, Pyton, Go)
 - ⚙️ Experienced in Google Cloud(GCP) - K8s, Docker, CI/CD workflows & everything DevOps
-- ⚛️ Web3 developer & Resercher
+- ⚛️ Web3 developer & Researcher
 
 
 ## Current Tech Stack
