@@ -78,8 +78,6 @@
 ## I don't bite - promise 😇
  <p>
  <a href = "https://www.linkedin.com/in/bogomil-cvetkov-766a37b5/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
-  <a href = "https://www.facebook.com/bogomil.cena/"> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"> </a>
- <a href="https://www.instagram.com/bogo.cvetkov/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
  </p>
  
 #### Pinned Repositories
