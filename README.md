@@ -16,12 +16,6 @@
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white">
 <p>
-<p>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
-  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
-  <img src="https://img.shields.io/badge/-GIN-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-<p>
   
  ### Databases
 <p>
